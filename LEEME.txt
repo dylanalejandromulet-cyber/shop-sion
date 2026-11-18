@@ -1,0 +1,13 @@
+SHOP SION - PUBLICAR CATÁLOGO
+
+Este paquete contiene index.html con los 7 productos, fotos, precios y pedidos por WhatsApp. Las fotos están incluidas dentro del propio archivo.
+
+PARA ACTUALIZAR TU PÁGINA DE GITHUB:
+1. Abre https://github.com/dylanalejandromulet-cyber/shop-sion
+2. Entra en la carpeta principal del repositorio (la primera pantalla).
+3. Pulsa Add file > Upload files.
+4. Descomprime este ZIP en tu teléfono y sube el archivo index.html.
+5. Si GitHub pregunta si quieres reemplazar el index.html existente, confirma.
+6. Pulsa Commit changes.
+
+Después de unos minutos, abre https://dylanalejandromulet-cyber.github.io/shop-sion/
